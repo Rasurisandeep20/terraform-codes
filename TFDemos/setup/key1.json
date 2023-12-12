@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-bolt-407807",
+  "private_key_id": "3faf42d1f5316890feed7b5e87b1e80a245d5642",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOlqHeXHqCu/jX\nfnU4uicnFjVguxtgg3ihNDdOK4yeu3sYNMNkxDK47DiqPMuJy79ei5BTEnrnpl6Q\npuXg38xa86REeLRUzNzRWxDqITwnmrEKMHhNlfePtwF2LDcZd0oFK76NohfIF8ZC\nCBedZqwY4n5fnby0E6WPruSTONroVsAULQXSYt6HGEAITipvvR3WBOpcWTlk9CX+\n0cW3UqsWiU3wTmRyNaJQCJPySKE38y7BWEefN7YkZJszDYbryUDEISE3z0Z5Bu+H\nhCvhRWKgTjuSxX/MUZFx/V1JPfwbCfULMvDF3hZA6uDDNn5mqbIhd0c0m7SoegkU\nb3ji121nAgMBAAECggEAA5UgJHuFElxRIeeK/9tWj3p2nYFRJbjR8DW4Gc5uh1gn\n99D+bHJskMFj8CvSucaDQI/6Bj7FS9waOrbyOJaY9CDSge937RqKX8UNA4plASjR\nFiSmCW5m1yKsz1BP+kyTx4gtK0aa0/j5kq6SPkQICvxuhZj2K0dF8Tpus1DilvHW\nMAhZha/uE/Cq8qDaYAboehsbbXVZbOTUB9mWOifB4g9CPT09jFCS/qFeqQIpOTdQ\nZFiRb9X0tOxXS4vycBgVkH7mUkVkzx0j7fkXo8g2ILI9nRBebduL0Y57uCpO55l/\nY0vOXnCW/5bJweRrK3T8m+GqFPoXJCW0Lpz6akXtHQKBgQD0waL5HU183Mm68ggr\nq6Zwtrt4qEpeH4G1yHTPdRrhnptpo+cUTjlWzTV8YJa10/YPX00m3VypvZIrgo3L\nJPbEeFRh9OWUCuOiMLTJUo15lkOZdIk56kDK6knswWG0u7yHRPj4oCniyQd/PI6b\nJIjwKN77aDDC+mpTyTxTSlqtMwKBgQDYFCLCQMBJ7ipHhrgymecIzAl2+2aeZfBf\nKmX0ZvAJB/JUXL0urZZpMscWlToIXP9ZzNKGl97Ba23PyP867DWPplwMmOk6ezbG\n1mk1Fa2ufobnM8BF1QGk1OULslB+WtHEiw3IVpfVRbRzR8VE7vlvq7jaduU61Wcl\nD3i+X4i2/QKBgQCS9SkbloKONCtT+jr5rajUCIPr4HA2r4g8U83/OnsXeRorheQb\nhxRakABLW9th9ZDKjhhO+57FtDNtuIfWr60TLoTMBDVMfHVNTx1dvBmCJb0VCKnU\ngljA/YfBhiNaV1bNiZZMAi7kInxD42JkuL0YJhIstdSBXcY15KA6Cm0DjQKBgH0B\nGSK8BwI+MGN0wrczZf8m2wrkYfedDbRgeN8tdgwjdsPrat7IOc3ePGMKLaqM8oTn\nA5wt3AaVuc+Nfmp+IHZcTcBT7gmRIp1hiTfWtMXQGQdEXyWHFw5ew6tCm2Kd8+D6\neRy/S9NsIfrXOH6qqc86zxRD2FVzA9ri2n14E0WZAoGBAOUJameQ5CuRO56q/hSO\negFg93gt1jMYSyAJdBYArSzhHW+JOmIJfG0oqqiFhhglc2/xjfu5w+ctiw7uMAyw\nMJDDakxWc7gCXlaDcI1Ngv9uAN6UtXf1CztfOAfzYg7Wyzn23M+wBvsB3/njFjxm\nJiWAszNOxSxvu6+Pw2DBEtU6\n-----END PRIVATE KEY-----\n",
+  "client_email": "trainingsa@melodic-bolt-407807.iam.gserviceaccount.com",
+  "client_id": "117964482661780440871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trainingsa%40melodic-bolt-407807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
