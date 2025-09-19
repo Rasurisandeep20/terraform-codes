@@ -1,0 +1,27 @@
+This diagram illustrates a Retrieval-Augmented Generation (RAG) based cost optimization chatbot architecture for Google Kubernetes Engine, with each component explained below one by one.
+
+GCP Billing API (Data Source)
+GCP Billing API serves as the data source by providing detailed cost and usage information from Google Cloud projects, allowing programmatic access to billing data for cost optimization purposes.
+
+Vector Embedding
+Billing data from the API is transformed into vector representations using an embedding model. Embeddings capture semantic information, making data suitable for efficient retrieval via vector search.
+
+Vector Database (Knowledge/DB or Base)
+The processed vector embeddings are stored in a Vector Database. This enables fast retrieval of relevant data through similarity search during chatbot interactions.
+
+Retriever
+The Retriever component takes a user’s query (e.g., about GKE costs or pod utilization) and finds the most relevant context from the database by comparing the query’s embedding with existing data chunks.
+
+LLM (ChatGPT/Gemini AI)
+A Large Language Model (LLM) receives the prompt (user question) along with retrieved context from the database. It generates a detailed, context-aware answer for the user, blending information from both its internal knowledge and fresh data.
+
+User Interface
+The UI acts as the bridge between user and system, presenting a question to the LLM, displaying the generated answer, and optionally passing commands to an Action Executor module.
+
+Action Executor (Optional)
+For advanced workflows, the system may execute automated actions (e.g., resource scaling recommendations, cost controls) based on the chatbot’s suggestions, further optimizing GKE usage.
+
+Cost/Utilization Query Example
+For example, when a user asks, “Which pods are underutilized?” the chatbot retrieves relevant data from the vector database, formulates an informed answer with the LLM, and displays it via the interface, supporting cost-saving decisions.
+
+This end-to-end flow ensures that GKE costs are constantly monitored and managed with the help of a smart RAG chatbot, facilitating data-driven optimization within cloud environments.
